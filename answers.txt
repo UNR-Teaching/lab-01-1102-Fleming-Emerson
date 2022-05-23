@@ -1,0 +1,7 @@
+// Emerson Fleming
+// CS 202.2101
+// 5-23-2022
+
+// 3. There is now a file titled "newfile.txt". When combined with ls, the > seemed to create a new file that lists all of the other files in the repository.
+// 5. It says that the newfile.txt is a new file and that changes will be committed with the new file.
+// 6. The command gives an index numbered a full listing of the files within the newfile.txt.
